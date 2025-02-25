@@ -1,0 +1,8 @@
+streamlit==1.30.0
+tensorflow==2.14.0
+numpy==1.26.0
+pandas==2.1.4
+gdown==4.7.1
+fpdf==1.7.2
+sqlite3  # Built-in with Python, no need to install separately
+
